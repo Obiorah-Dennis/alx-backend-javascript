@@ -102,6 +102,3 @@ This project contains tasks for learning to the basics of NodeJS.
     }
 
     ```
-# Author Jerome Udoh
-https://github.com/Jubasstech/alx-backend-javascript.git
-
